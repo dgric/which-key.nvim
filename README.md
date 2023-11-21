@@ -5,6 +5,9 @@ the command you started typing. Heavily inspired by the original [emacs-which-ke
 
 ![image](https://user-images.githubusercontent.com/292349/116439438-669f8d00-a804-11eb-9b5b-c7122bd9acac.png)
 
+## Fork
+Personal fork that applies some patches until they are applied upstream.
+
 ## ✨ Features
 
 - for Neovim 0.7 and higher, it uses the `desc` attributes of your mappings as the default label
